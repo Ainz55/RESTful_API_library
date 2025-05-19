@@ -2,7 +2,8 @@
 
 ### Инструкция по запуску:
 
-![img.png](img.png)
+![img](https://github.com/user-attachments/assets/428976ae-f760-4bc3-8254-96626f12c35f)
+
 
 Нажмите кнопку Code, выберите вкладку HTTPS и скопируйте ссылку:
 
@@ -29,22 +30,32 @@ MacOS:
 ## Заупск
 
 `python main.py` данная команда запускает сервер
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img_2](https://github.com/user-attachments/assets/ff398f8f-e55c-4e5c-82d6-11e3b21d350f)
+
+![img_3](https://github.com/user-attachments/assets/e992eedb-b483-4374-a3b2-91d7846c3841)
+
 Переходим по ссылке в localhost и в браузере после 8000 пишем /docs что бы перейти в Swagger UI
 _____
-![img_4.png](img_4.png)
-Как перешли в Swagger UI(/docs) нам надо пройти регистрацию в разделе Auth нажимаем на Register в открывшем окне нажимаем на ![img_5.png](img_5.png)
+![img_4](https://github.com/user-attachments/assets/4bfd466e-6670-4706-a8a7-4dbaf57c9c3c)
+
+Как перешли в Swagger UI(/docs) нам надо пройти регистрацию в разделе Auth нажимаем на Register в открывшем окне нажимаем на ![img_5](https://github.com/user-attachments/assets/5d396ebc-de38-4625-9dd1-3656b66e70fb)
+
 далее мы должны зарегистрироваться
-![img_7.png](img_7.png)
-водим email и password далее нажимаем на Execute ![img_8.png](img_8.png) в итоге он должен дать нам 200 код что означает все хорошо если у вас не 200 код значит вы ошиблись в email
+![img_7](https://github.com/user-attachments/assets/7ce338fe-c581-4bbf-baf8-6001d45c47d8)
+
+водим email и password далее нажимаем на Execute ![img_8](https://github.com/user-attachments/assets/44602b65-d691-44aa-ab41-f892a5991c1b)
+ в итоге он должен дать нам 200 код что означает все хорошо если у вас не 200 код значит вы ошиблись в email
 _____
 Переходим в login и водим email с password, ВАЖНО email водим в строку где username
-![img_9.png](img_9.png)
+![img_9](https://github.com/user-attachments/assets/de53cd23-6a31-4f29-8df6-753fcb7cb6ed)
+
 Если вы получили 200 код значит все хорошо.
 ___
-Далее если вы хотите создать книгу, пользователя и т.д. Вы должны авторизоваться ![img_11.png](img_11.png) нажимаете на него и так же водите email с password, email водим в username
-![img_12.png](img_12.png)![img_13.png](img_13.png) нажимаете close и теперь можно создавать, изменить, удалить, получать книгу и информацию о пользователях
+Далее если вы хотите создать книгу, пользователя и т.д. Вы должны авторизоваться ![img_11](https://github.com/user-attachments/assets/c2dcfb4c-20e6-4826-bb5f-053b305eb1b6)
+) нажимаете на него и так же водите email с password, email водим в username
+![img_12](https://github.com/user-attachments/assets/a900dc9a-236d-44d1-9659-fdea7754f528)
+![img_13](https://github.com/user-attachments/assets/388dfec4-1ce4-4219-8004-a872c4f3282d)
+ нажимаете close и теперь можно создавать, изменить, удалить, получать книгу и информацию о пользователях
 __________
 __________
 ## Структура проекта
